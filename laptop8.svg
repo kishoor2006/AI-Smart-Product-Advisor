@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560">
+<rect width="900" height="560" rx="35" fill="#eef4ff"/><rect x="205" y="70" width="490" height="310" rx="24" fill="#172554"/>
+<rect x="235" y="100" width="430" height="250" rx="12" fill="#2563eb"/><rect x="275" y="145" width="350" height="38" rx="12" fill="#dbeafe"/>
+<rect x="275" y="210" width="160" height="90" rx="12" fill="#f8fafc"/><rect x="455" y="210" width="170" height="90" rx="12" fill="#cbd5e1"/>
+<path d="M165 390h570l70 70H95z" fill="#334155"/><rect x="365" y="398" width="170" height="22" rx="8" fill="#64748b"/>
+<text x="45" y="42" font-family="Arial" font-size="28" font-weight="700" fill="#0f172a">Lenovo ThinkBook 14</text>
+<text x="45" y="520" font-family="Arial" font-size="22" fill="#334155">Lenovo • ₹61,999</text></svg>
